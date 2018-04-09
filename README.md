@@ -1,4 +1,3 @@
-
 # Variable Assignment
 
 ## Objectives
